@@ -1,0 +1,5 @@
+- 👋 olá,eu sou @keslengouveia
+- 👀 eu estou interessada em estudar programação
+- 🌱 eun estou aprendendo a programar
+- 💞️ o meu email de contato é keslen.miranda@escola.pr.gov.br
+- 📫 essa sou eu 
